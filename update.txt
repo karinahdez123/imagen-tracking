@@ -1,0 +1,22 @@
+update usuarios set contrasenia=MD5('17111150')
+WHERE usuario='17111150'
+
+
+
+Hola buen día.
+
+Tu nueva contraseña es: jKLFzjG697
+Usuario: 17111168
+
+Liga de acceso al sistema de seguimiento de egresados: https://escolares.itesg.edu.mx/seguimientoegresados/
+
+
+Quedo atenta a cualquier duda o comentario. Saludos.
+
+
+Hola buenos días, me podría proporcionar sus siguientes datos:
+Nombre completo
+Carrera
+En cuanto me mande esos datos le proporciono la nueva contraseña y su usuario.
+
+Saludos.
